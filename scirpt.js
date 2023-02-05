@@ -1,7 +1,7 @@
 var currentHour = moment().hour();
 var militaryHour = [9, 10, 11, 12, 13, 14, 15, 16, 17];
 var saveBtn = document.querySelectorAll(".saveBtn");
-
+// showing current time on front of webpage
 document.querySelector("#currentDay").textContent = moment().format("dddd, MMMM Do");
 for (var i = 0; i < 9; i++) {
   if (currentHour === militaryHour[i]) {
