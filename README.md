@@ -8,7 +8,7 @@ to local storage and be present next time you load up the webpage. The timeblock
 ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Screenshot of Webapge
-![Screenshot of Webpage](/screenshot.jpg)
+![Screenshot of Webpage](./assets/images/screenshot.jpg)
 
 ## Questions?
 If any questions contact at<br/>
